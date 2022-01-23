@@ -1,0 +1,193 @@
+Back Door Listing  后门上市/借壳上市
+
+Backlog  订单积压
+
+Back Office  后线（交易清算室）
+
+Back Pricing  往后定价
+
+Back-to-Back Loan  背对背贷款
+
+Backstop  最后担保
+
+Bad Debt  不良贷款
+
+Balanced Fund  平衡基金
+
+Balanced Investment Strategy  平衡投资策略
+
+Balance of Payments (BOP)  国际收支差额
+
+Balance of Trade (BOT)  国际贸易差额
+
+Balance Sheet  资产负债表
+
+Balloon Option  气球型期权
+
+Balloon Maturity  气球型期限
+
+Bancassurance  银行出售保险
+
+Bank Guarantee  银行担保
+
+Bank for International Settlements (BIS)  国际结算银行
+
+Bank Insurance  银行保险
+
+Bank Investment Contract (BIC)  银行投资合约
+
+Bank Rate  银行利率
+
+Bank run  银行挤兑
+
+Bankruptcy  破产
+
+Bankruptcy Risk  破产风险
+
+Barrels per Day  每日产量（桶）
+
+Barter  以物易物
+
+Base Period  基本时期
+
+Basing  平稳期
+
+Basis Point (BP)  基点
+
+Bear Market  熊市
+
+Bear Raid  空头猛跌，大量抛空以使价格下跌
+
+Bearer Form  凭票即付形式，无记名形式
+
+Beginning Inventory  期初库存
+
+Behavioral Economics  行为经济学
+
+Behavioral Finance  行为金融学
+
+Benchmark  基准
+
+Benchmark Bond  基准债券
+
+Beneficial Owner  受益者
+
+Beneficiary  受益方
+
+Benefit Cost Ratio(BCR)  效益成本比率
+
+Bequest  遗赠、遗产
+
+Best Ask  最低叫价
+
+Best Bid  最高出价
+
+Best Efforts  尽力推销
+
+Best Execution  最佳执行
+
+Best Practice  最佳做法/最佳惯例
+
+Best Price Rule  最佳价格规则
+
+Beta (Coefficient)  贝塔系数
+
+Bid  买方出价
+
+Bid-Ask Spread  买卖差价
+
+Bid Price  买方出价
+
+Black Knight  黑武士
+
+Black Monday  黑色星期一
+
+Black Thursday  黑色星期四
+
+Block Trade  大宗交易
+
+Blue Chip  蓝筹
+
+Board Lot  单位数量，整份股
+
+Board of Directors  董事会
+
+Bond  债券
+
+Bond Anticipation Note (BAN)  预期债券票据
+
+Bond Equivalent Yield (BEY)  债券等值收益
+
+Bond Fund  债券基金
+
+Bond Option  债券期权
+
+Bond Rating  债券评级
+
+Bond Swap  债券互换
+
+Book Building  需求建档
+
+Book Runner  账簿管理人
+
+Book Value  账面价值
+
+Book Value per Common  每普通股账面价值
+
+Break Even Point (BEP)  收支平衡点
+
+Bridge financing  过渡融资
+
+Bridge loan  过渡贷款
+
+Broad-Based Weighted Average  广泛基础加权平均
+
+Broad-Base Index  广泛基础指数
+
+Bubble  市场泡沫
+
+Budget  预算案
+
+BUGS Index  无对冲黄金股票指数
+
+Bulge Bracket  表现最佳承销商
+
+Bull  乐观投资者
+
+Bull Vertical Spread  看涨的纵向多空套做
+
+Bulldog Bond  猛犬债券
+
+Bullet Bond  期末一次性偿还债券
+
+Bullet Loan  期末一次性偿还贷款
+
+Bullet Repayment  一次性偿还
+
+Bullet Trade  子弹式交易
+
+Bull Market  牛市
+
+Bull Spread  看涨的多空套做
+
+Burn Rate  资金消耗率
+
+Business to Business (B2B)  商业对商业
+
+Buy  买入
+
+Buy And Hold  买入并持有
+
+Buying Power  购买力
+
+Buyout  收购
+
+Buy Back  回购
+
+Buy-In  补偿买进
+
+Buy-Side  买方
+
+Buyer's Market  买方市场
+
+Buying Hedge  买入对冲
